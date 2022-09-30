@@ -14,12 +14,6 @@ Exemplo:
  baseURL : 'http://127.0.0.1:8001/api/products'
 ```
 
-Instale as dependências
-
-rode o comando 
-```bash
-npm install
-```
 
 a seguir inicie o servidor para testes
 
